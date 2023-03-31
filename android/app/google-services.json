@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888849553589",
+    "project_id": "elredtodoapp",
+    "storage_bucket": "elredtodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888849553589:android:0c43dd33e5bd9d35b946fc",
+        "android_client_info": {
+          "package_name": "anuditakeshri.com.elred_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888849553589-78po2q6ljgk3ikiohage5k5hsfj6qpfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQE1BlCd8weaQcS8-hE_AtGXEkPieHZcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888849553589-78po2q6ljgk3ikiohage5k5hsfj6qpfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

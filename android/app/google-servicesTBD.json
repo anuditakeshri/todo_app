@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106253719124",
+    "firebase_url": "https://test-2f2a0.firebaseio.com",
+    "project_id": "test-2f2a0",
+    "storage_bucket": "test-2f2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106253719124:android:c81ca6ffe9dfd71c337fc1",
+        "android_client_info": {
+          "package_name": "anuditakeshri.com.elred_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106253719124-4fj9ac75vjtoivqabrr4um8k5dcp7vc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVtCCdz7aqho085vInXXS5tYGuGL3kPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106253719124-4a5ef4slkq2gmfhe2b590f6iu2507ih4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
